@@ -44,6 +44,6 @@ Je participe activement à des initiatives éducatives comme l'initiation à l'i
 
 Email : lalainaratsirarison@gmail.com
 
-LinkedIn : 
+LinkedIn : www.linkedin.com/in/lalaina-ratsirarison
 
 🚀 Toujours prêt à apprendre et à collaborer sur des projets passionnants !
