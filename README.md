@@ -1,45 +1,45 @@
-👋 Salut, je suis Lalaina Ratsirarison
+👋 Hi, I’m Lalaina Ratsirarison
 
-🎓 À propos de moi
+🎓 About Me
 
-Je suis un étudiant développeur passionné par l'informatique et le développement logiciel. J'aime apprendre de nouvelles technologies et les appliquer à des projets concrets.
+I am a student developer passionate about computer science and software development. I enjoy learning new technologies and applying them to real-world projects.
 
-💡 Mes centres d'intérêt
+💡 My Interests
 
-🔥 Développement Web (React.js, Node.js, Express, CodeIgniter 4, Prestashop, WordPress)
+🔥 Web Development (React.js, Node.js, Express, CodeIgniter 4, Prestashop, WordPress)
 
-🎮 Création de jeux interactifs
+🎮 Creating interactive games
 
-💬 Développement d'applications en temps réel (C# Windows Forms)
+💬 Real-time application development (C# Windows Forms)
 
-🛠 Développement d'applications avec Qt et C++
+🛠 Application development with Qt and C++
 
-🛠 Gestion et optimisation de bases de données (MySQL 8)
+🛠 Database management and optimization (MySQL 8)
 
-🚀 Initiation des jeunes à l'informatique et à la pensée algorithmique
+🚀 Introducing young people to computer science and algorithmic thinking
 
-🎯 Projets en cours
+🎯 Ongoing Projects
 
-Un jeu interactif : les lettres d'un mot s'éparpillent et l'utilisateur doit deviner le mot dans un temps imparti.
+An interactive game: the letters of a word are scattered and the user must guess the word within a set time.
 
-Un chat en temps réel : développé en C# avec Windows Forms.
+A real-time chat: developed in C# with Windows Forms.
 
-Une application web MVC : utilisant Node.js, Express et React.js.
+An MVC web application: using Node.js, Express, and React.js.
 
-🛠 Technologies et outils
+🛠 Technologies and Tools
 
-Langages : JavaScript, PHP, C++, C#, Python
+Languages: JavaScript, PHP, C++, C#, Python
 
-Frameworks & Bibliothèques : React.js, Express, CodeIgniter 4, Prestashop, WordPress, Qt
+Frameworks & Libraries: React.js, Express, CodeIgniter 4, Prestashop, WordPress, Qt
 
-Base de données : MySQL 8, SQLite
+Databases: MySQL 8, SQLite
 
-Outils de développement : Jupyter Notebook, Visual Studio, Visual Studio Code 
+Development tools: Jupyter Notebook, Visual Studio, Visual Studio Code
 
-📫 Me contacter
+📫 Contact Me
 
-Email : lalainaratsirarison@gmail.com
+Email: lalainaratsirarison@gmail.com
 
-LinkedIn : www.linkedin.com/in/lalaina-ratsirarison
+LinkedIn: www.linkedin.com/in/lalaina-ratsirarison
 
-🚀 Toujours prêt à apprendre et à collaborer sur des projets passionnants !
+🚀 Always ready to learn and collaborate on exciting projects
