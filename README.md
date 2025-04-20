@@ -28,17 +28,13 @@ Une application web MVC : utilisant Node.js, Express et React.js.
 
 🛠 Technologies et outils
 
-Langages : JavaScript, PHP, C++, C#
+Langages : JavaScript, PHP, C++, C#, Python
 
 Frameworks & Bibliothèques : React.js, Express, CodeIgniter 4, Prestashop, WordPress, Qt
 
 Base de données : MySQL 8, SQLite
 
-Outils de développement : Ubuntu 24.04, Windows, XAMPP, rEFInd
-
-📚 Expérience et engagement
-
-Je participe activement à des initiatives éducatives comme l'initiation à l'informatique des enfants venant de l'EPP 67Ha avec la Maison du Numérique et YAS Madagascar. Mon objectif est de rendre l'apprentissage ludique et interactif pour inspirer la curiosité et la créativité des jeunes générations.
+Outils de développement : Jupyter Notebook, Visual Studio, Visual Studio Code 
 
 📫 Me contacter
 
