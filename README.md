@@ -1,45 +1,25 @@
-👋 Hi, I’m Lalaina Ratsirarison
+👨‍💻 Lalaina Ratsirarison
+Back-End Developer passionate about building robust and scalable architectures.
+I specialize primarily in Node.js / Express, with solid experience in FastAPI and CodeIgniter depending on project needs. On the front-end side, I work with React and Next.js to deliver modern and performant user experiences. I also integrate WordPress for CMS-based projects.
 
-🎓 About Me
+🛠️ Tech Stack
+Back-End
+Node.js Express FastAPI CodeIgniter
+Front-End
+React Next.js WordPress
+Databases
+MySQL PostgreSQL MongoDB
 
-I am a student developer passionate about computer science and software development. I enjoy learning new technologies and applying them to real-world projects.
+🚀 What I Build
 
-💡 My Interests
+RESTful APIs & microservices
+Full-stack web platforms
+CMS & e-commerce solutions
+Automation tools & scripts
 
-🔥 Web Development (React.js, Node.js, Express, CodeIgniter 4, Prestashop, WordPress)
 
-🎮 Creating interactive games
+📬 Get in Touch
 
-💬 Real-time application development (C# Windows Forms)
-
-🛠 Application development with Qt and C++
-
-🛠 Database management and optimization (MySQL 8)
-
-🚀 Introducing young people to computer science and algorithmic thinking
-
-🎯 Ongoing Projects
-
-An interactive game: the letters of a word are scattered and the user must guess the word within a set time.
-
-A real-time chat: developed in C# with Windows Forms.
-
-An MVC web application: using Node.js, Express, and React.js.
-
-🛠 Technologies and Tools
-
-Languages: JavaScript, PHP, C++, C#, Python
-
-Frameworks & Libraries: React.js, Express, CodeIgniter 4, Prestashop, WordPress, Qt
-
-Databases: MySQL 8, SQLite
-
-Development tools: Jupyter Notebook, Visual Studio, Visual Studio Code
-
-📫 Contact Me
-
-Email: lalainaratsirarison@gmail.com
-
-LinkedIn: www.linkedin.com/in/lalaina-ratsirarison
-
-🚀 Always ready to learn and collaborate on exciting projects
+📧 lalainaratsirarison@gmail.com
+📞 +261 32 446 7551
+🇲🇬 Antananarivo, Madagascar
