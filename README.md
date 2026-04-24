@@ -19,5 +19,7 @@ Automation tools & scripts
 📬 Get in Touch
 
 📧 lalainaratsirarison@gmail.com
+
 📞 +261 32 44 675 51
+
 🇲🇬 Antananarivo, Madagascar
