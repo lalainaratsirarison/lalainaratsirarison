@@ -1,5 +1,6 @@
 👨‍💻 Lalaina Ratsirarison
-\nBack-End Developer passionate about building robust and scalable architectures.
+
+Back-End Developer passionate about building robust and scalable architectures.
 I specialize primarily in Node.js / Express, with solid experience in FastAPI and CodeIgniter depending on project needs. On the front-end side, I work with React and Next.js to deliver modern and performant user experiences. I also integrate WordPress for CMS-based projects.
 
 🛠️ Tech Stack
